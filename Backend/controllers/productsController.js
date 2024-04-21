@@ -1,6 +1,5 @@
 const Product = require('../models/Product');
 const Category = require('../models/Category');
-const Warehouse = require('../models/Warehouse');
 
 console.log("HERE")
 // Create a new product
