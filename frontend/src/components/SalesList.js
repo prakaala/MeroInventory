@@ -53,7 +53,7 @@ export default function ProductList(props) {
                 <h2>Sales</h2>
                 <hr className="hr" />
 
-                <h2>Manage Products</h2>
+                <h2>Sales Ledger</h2>
                 <hr className="hr" />
 
                 <div className="table-container" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
